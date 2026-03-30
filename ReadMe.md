@@ -9,6 +9,7 @@
  ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
 
   ⚡ Multi-Target WiFi Deauth Tool ⚡
+   Built by : bxbySAMRAT
   [ Auto Monitor Mode | Scapy-Powered ]
        FOR AUTHORIZED USE ONLY 🔴
 ```
